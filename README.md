@@ -1,4 +1,4 @@
-# MD_simulation_analysis
+# MD Simulation Analysis
 This repository contains personal scripts for analyzing MD simulation data.
 
 ## Main Functions:
